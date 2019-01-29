@@ -1,0 +1,9 @@
+K:\Computer Graphics Programming\CGP\bin\Debug\CGP.exe.config
+K:\Computer Graphics Programming\CGP\bin\Debug\CGP.exe
+K:\Computer Graphics Programming\CGP\bin\Debug\CGP.pdb
+K:\Computer Graphics Programming\CGP\obj\Debug\CGP.csprojResolveAssemblyReference.cache
+K:\Computer Graphics Programming\CGP\obj\Debug\CGP.Properties.Resources.resources
+K:\Computer Graphics Programming\CGP\obj\Debug\CGP.csproj.GenerateResource.cache
+K:\Computer Graphics Programming\CGP\obj\Debug\CGP.csproj.CoreCompileInputs.cache
+K:\Computer Graphics Programming\CGP\obj\Debug\CGP.exe
+K:\Computer Graphics Programming\CGP\obj\Debug\CGP.pdb
