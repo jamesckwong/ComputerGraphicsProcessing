@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2dsquareandcircle", "2dsquareandcircle.csproj", "{FC28C563-78DE-4552-91C4-886B750FDC9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Ddrawing", "..\2Ddrawing\2Ddrawing.csproj", "{10B88345-2480-47F8-90C4-9A6B3E5E913D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC28C563-78DE-4552-91C4-886B750FDC9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC28C563-78DE-4552-91C4-886B750FDC9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC28C563-78DE-4552-91C4-886B750FDC9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC28C563-78DE-4552-91C4-886B750FDC9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B88345-2480-47F8-90C4-9A6B3E5E913D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B88345-2480-47F8-90C4-9A6B3E5E913D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B88345-2480-47F8-90C4-9A6B3E5E913D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B88345-2480-47F8-90C4-9A6B3E5E913D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56C0FCCB-5394-4D0E-A040-866B7D5B7775}
+	EndGlobalSection
+EndGlobal

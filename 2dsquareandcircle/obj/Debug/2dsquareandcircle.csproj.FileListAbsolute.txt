@@ -1,0 +1,9 @@
+K:\2dsquareandcircle\obj\Debug\2dsquareandcircle.csprojResolveAssemblyReference.cache
+K:\2dsquareandcircle\obj\Debug\_2dsquareandcircle.Properties.Resources.resources
+K:\2dsquareandcircle\obj\Debug\2dsquareandcircle.csproj.GenerateResource.cache
+K:\2dsquareandcircle\obj\Debug\2dsquareandcircle.csproj.CoreCompileInputs.cache
+K:\2dsquareandcircle\bin\Debug\2dsquareandcircle.exe.config
+K:\2dsquareandcircle\bin\Debug\2dsquareandcircle.exe
+K:\2dsquareandcircle\bin\Debug\2dsquareandcircle.pdb
+K:\2dsquareandcircle\obj\Debug\2dsquareandcircle.exe
+K:\2dsquareandcircle\obj\Debug\2dsquareandcircle.pdb
