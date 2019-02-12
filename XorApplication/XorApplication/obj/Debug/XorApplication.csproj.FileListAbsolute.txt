@@ -1,0 +1,9 @@
+K:\XorApplication\XorApplication\bin\Debug\XorApplication.exe.config
+K:\XorApplication\XorApplication\bin\Debug\XorApplication.exe
+K:\XorApplication\XorApplication\bin\Debug\XorApplication.pdb
+K:\XorApplication\XorApplication\obj\Debug\XorApplication.csprojResolveAssemblyReference.cache
+K:\XorApplication\XorApplication\obj\Debug\XorApplication.Properties.Resources.resources
+K:\XorApplication\XorApplication\obj\Debug\XorApplication.csproj.GenerateResource.cache
+K:\XorApplication\XorApplication\obj\Debug\XorApplication.csproj.CoreCompileInputs.cache
+K:\XorApplication\XorApplication\obj\Debug\XorApplication.exe
+K:\XorApplication\XorApplication\obj\Debug\XorApplication.pdb
