@@ -1,0 +1,9 @@
+K:\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.Properties.Resources.resources
+K:\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.csproj.GenerateResource.cache
+K:\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.csproj.CoreCompileInputs.cache
+K:\DoubleBuffering\DoubleBuffering\bin\Debug\DoubleBuffering.exe.config
+K:\DoubleBuffering\DoubleBuffering\bin\Debug\DoubleBuffering.exe
+K:\DoubleBuffering\DoubleBuffering\bin\Debug\DoubleBuffering.pdb
+K:\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.exe
+K:\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.pdb
+K:\DoubleBuffering\DoubleBuffering\obj\Debug\DoubleBuffering.csprojResolveAssemblyReference.cache
