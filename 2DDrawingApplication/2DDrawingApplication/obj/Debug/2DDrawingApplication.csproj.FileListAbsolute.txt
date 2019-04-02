@@ -1,0 +1,9 @@
+K:\2DDrawingApplication\2DDrawingApplication\obj\Debug\2DDrawingApplication.csprojResolveAssemblyReference.cache
+K:\2DDrawingApplication\2DDrawingApplication\obj\Debug\_2DDrawingApplication.Properties.Resources.resources
+K:\2DDrawingApplication\2DDrawingApplication\obj\Debug\2DDrawingApplication.csproj.GenerateResource.cache
+K:\2DDrawingApplication\2DDrawingApplication\obj\Debug\2DDrawingApplication.csproj.CoreCompileInputs.cache
+K:\2DDrawingApplication\2DDrawingApplication\bin\Debug\2DDrawingApplication.exe.config
+K:\2DDrawingApplication\2DDrawingApplication\bin\Debug\2DDrawingApplication.exe
+K:\2DDrawingApplication\2DDrawingApplication\bin\Debug\2DDrawingApplication.pdb
+K:\2DDrawingApplication\2DDrawingApplication\obj\Debug\2DDrawingApplication.exe
+K:\2DDrawingApplication\2DDrawingApplication\obj\Debug\2DDrawingApplication.pdb
